@@ -16,3 +16,5 @@ We will deploy the following components:
 🛠 Launching 1 RDS MySQL micro instance in a private subnet
 🛠 Setting up security groups for the web tier and database tier
 🛠 Configuration of Load Balancer with LB Target and Listener
+
+![image](https://github.com/rishabh0071/Terraform-2tier-architeture/assets/57853470/69dda922-c6f5-4d93-91ca-80b7a5bbb04b)
